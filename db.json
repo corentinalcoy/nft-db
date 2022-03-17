@@ -1,31 +1,9 @@
-{
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+[
+    {
+        "id": 0,
+        "description": "CoAl NFT",
+        "external_url": "https://unicore-beta.s3.amazonaws.com/media/tags/212238b883914416b265fe8b646008f9.png",
+        "image": "https://unicore-beta.s3.amazonaws.com/media/tags/212238b883914416b265fe8b646008f9.png",
+        "name": "CoAl NFT 0"
     }
-}
+]
